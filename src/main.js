@@ -4,6 +4,7 @@ import img1 from "./images/LaurBalaur.jpg"
 export default function Main() {
     return (
         <div>
+            <div className="img-edit"></div>
             <img className="img-edit"/>
             <div className="secondary">
                 <h2 className="custom-name">Cibotari Laurentiu</h2>
